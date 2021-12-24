@@ -8,6 +8,8 @@
 
 I was inspired by [this workflow](https://www.youtube.com/watch?v=NN6KQI4Nslk) but wanted a weekly planner instead of a daily planner and I wanted to specifically customize it to my needs. I created a weekly template (svg) and python script that allows you to customize a weekly planner to your hearts desire. With a few tweaks, it could be a montly or daily planner as well.
 
+<img src="https://raw.githubusercontent.com/emcarthur/WeeklyPDFPlannerCreator/main/examplePhoto.jpg" width="250" >
+
 ### Overview of repo contents and steps to create a planner
 * **To create a template for each page**
     *   *Optional:* I first drafted out a template using MS word with some tables: `template_draft.docx`. I then exported this as a pdf: `template_draft.pdf`. 
@@ -23,3 +25,12 @@ I was inspired by [this workflow](https://www.youtube.com/watch?v=NN6KQI4Nslk) b
 *   **To add montly bookmarks to the pdf for easy navigation**
     *   If you want to add monthly bookmarks to your pdf, you can use [PDF Escape](https://www.pdfescape.com/) (free), Adobe acrobat (not free), or [other online tools](https://www.ilovefreesoftware.com/21/featured/online-add-bookmarks-to-pdf-free-websites.html).
     *   With PDF escape, upload your pdf. Go to the "Bookmarks" panel (looks like a page with a little red tab). Scroll to the page you want to add a bookmark to. Click "add" and title your bookmark. (Tip: use the view:fit to precisely bookmark the right page).
+
+#### Personal learning goals in this project
+
+*  Google Colabs Jupyter notebook for easy access and reproducibility
+*  Integration of Google Colabs with GitHub
+*  SVG editing with Python
+*  More familiarity with `datetime`
+*  Think critically about what I value in a planner
+
