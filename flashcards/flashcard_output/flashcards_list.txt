@@ -1,0 +1,5 @@
+<img src="flashcards_p0_c1f.png">;<img src="flashcards_p0_c1b.png">
+<img src="flashcards_p0_c2f.png">;<img src="flashcards_p0_c2b.png">
+<img src="flashcards_p0_c3f.png">;<img src="flashcards_p0_c3b.png">
+<img src="flashcards_p0_c4f.png">;<img src="flashcards_p0_c4b.png">
+<img src="flashcards_p0_c5f.png">;<img src="flashcards_p0_c5b.png">
