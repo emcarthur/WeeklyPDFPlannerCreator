@@ -34,3 +34,9 @@ I was inspired by [this workflow](https://www.youtube.com/watch?v=NN6KQI4Nslk) b
 *  More familiarity with `datetime`
 *  Think critically about what I value in a planner
 
+## Bonus content! Make flashcards from a PDF template
+
+If you want to handwrite/draw flashcards into a pdf and then parse the pdf files to generate flash cards that can be used in flashcard softwares like Anki, check out the `.\flashcards` folder. The `Flashcards.ipynb` has directions and examples of how to create flashcards from the pdf templates included (`flashcards/flashcardtemplate.png`)
+
+<img src="https://raw.githubusercontent.com/emcarthur/WeeklyPDFPlannerCreator/main/flashcards/example_flashcards.jpg" width="250" >
+
